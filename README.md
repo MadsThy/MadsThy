@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mads Heimdal Thy
-- 👀 I’m interested in Live Action Roleplaying, IT, Programming and DIY
-- 🌱 I’m currently learning about Scrum to become a certified Scrum Master
-- 💞️ I’m looking to collaborate on stuff that excites you! If you are on fire, i will be too!
-- 📫 How to reach me :
+- 👋 &nbsp;  Hi, I’m Mads Heimdal Thy
+- 👀 &nbsp; I’m interested in Live Action Roleplaying, IT, Programming and DIY
+- 🌱 &nbsp; I’m currently learning about Scrum to become a certified Scrum Master
+- 💞️ &nbsp; I’m looking to collaborate on stuff that excites you! If you are on fire, i will be too!
+- 📫 &nbsp; How to reach me :
   - Tel: +45 30 23 81 12
   - Mail: mads@heimdal-thy.dk
   - Physically: Odense, Denmark
