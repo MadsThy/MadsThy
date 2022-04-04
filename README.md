@@ -1,3 +1,4 @@
+![LinkedIn Banner](https://raw.githubusercontent.com/MadsThy/MadsThy/main/Mads%20Heimdal%20Thy%20(3).png?raw=true "LinkedIn Banner")
 - 👋 &nbsp;  Hi, I’m Mads Heimdal Thy
 - 👀 &nbsp; I’m interested in Live Action Roleplaying, IT, Programming and DIY
 - 🌱 &nbsp; I’m currently learning about Scrum to become a certified Scrum Master
