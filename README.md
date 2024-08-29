@@ -5,5 +5,5 @@
 - 💞️ &nbsp; I want to collaborate on stuff that excites you! If you are passionate about something, I will be too!
 - 📫 &nbsp; How to reach me :
   - Tel: <a href="tel:+453023812">+45 30 23 81 12</a>
-  - Mail: <a href="mailto:mht@esoteria.dk">mht@esoteria.dk</a>
+  - Mail: <a href="mailto:mads@notahero.dk">mads@notahero.dk</a>
   - Physically: Odense, Denmark
